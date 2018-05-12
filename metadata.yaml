@@ -1,0 +1,38 @@
+_repo: Italian-Journeys_14276
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: CLASSIC TRAVEL WRITING. When Abraham Lincoln appointed William Dean Howells
+  Consul to Venice, the young writer embarked on a journey that would leave an indelible
+  impression on his life and work. Howells lived in Italy for four years, from 1861,
+  during the pivotal and tumultuous period of Italian reunification. Italian Journeys,
+  Howell's engrossing memoir of this time, describes his adventures across the country
+  - from Genoa, a hotbed of nationalistic fervour and the city from which Garibaldi
+  had led the Expedition of the Thousand only a year before; to the cultural and political
+  powerhouse of Naples, which had only just become part of the Kingdom of Italy and
+  from there to Rome, focus for the hopes of a fractured country.
+gutenberg_issued: '2004-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Description and travel'
+- !lcc 'DG'
+title: Italian Journeys
+url: http://www.gutenberg.org/ebooks/14276
